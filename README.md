@@ -1,0 +1,1 @@
+Personal twitter tool that downloaded videos within a user's likes. Utilized the old twitter API, but due to ballooning API costs is no longer feasible to use. This was a fun early project in my programming hobby and its a shame that fun APIs like twitter's are becoming less and less accessible for novice devs.
